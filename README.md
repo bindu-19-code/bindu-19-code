@@ -1,10 +1,24 @@
-- 👋 Hi, I’m Bindu K Reddy
-- 👀 I’m interested in Coding
-- 🌱 I’m currently studying 3rd year information science and engineering
-- 📫 How to reach me ..... www.linkedin.com/in/bindu-k-reddy-a997272a7
-- ⚡ Fun fact: ..... I'm a curious learner
+👋 Hi, I'm Bindu K Reddy
 
-<!---
-bindu-19-code/bindu-19-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 About Me
+
+- 💻 Passionate about coding, AI, and web development.
+
+- 🎓 Currently a 3rd-year Information Science and Engineering student at T. John Institute of Technology.
+
+- 🚀 Exploring AI-based projects.
+
+
+🌱 What I'm Up To
+
+- 🌐 Building AI-powered web applications and working on full-stack development.
+
+
+📫 Connect with Me
+
+- www.linkedin.com/in/bindu-k-reddy-a997272a7
+
+⚡ Fun Fact
+
+- I'm a curious learner who loves to explore new tech and challenges!
+
