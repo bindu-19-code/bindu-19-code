@@ -4,7 +4,7 @@
 
 - 💻 Passionate about coding, AI, and web development.
 
-- 🎓 Currently a 3rd-year Information Science and Engineering student at T. John Institute of Technology.
+- 🎓 Currently a 4th-year Information Science and Engineering student at T. John Institute of Technology.
 
 - 🚀 Exploring AI-based projects.
 
