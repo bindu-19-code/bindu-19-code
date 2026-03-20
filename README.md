@@ -4,7 +4,7 @@
 
 - 💻 Passionate about coding, AI, and web development.
 
-- 🎓 Currently a 4th-year Information Science and Engineering student at T. John Institute of Technology.
+- 🎓 Currently a Final Year Engineering Student and working as an Intern at Tap Academy.
 
 - 🚀 Exploring AI-based projects.
 
@@ -16,7 +16,7 @@
 
 📫 Connect with Me
 
-- www.linkedin.com/in/bindu-k-reddy-a997272a7
+- https://www.linkedin.com/in/bindukreddy-b1910k
 
 ⚡ Fun Fact
 
